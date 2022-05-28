@@ -10,8 +10,8 @@ android {
 //        applicationId "com.tq.pldk"
         minSdk 21
         targetSdk 32
-        versionCode 1001001
-        versionName "1.0.1"
+        versionCode 1001002
+        versionName "1.0.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

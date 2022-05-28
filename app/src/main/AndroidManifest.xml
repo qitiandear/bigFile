@@ -18,8 +18,8 @@
             android:name=".MainActivity"
             android:exported="true">
         </activity>
-        <activity android:name=".filepicker.FilePickerActivity">
-        </activity>
+        <activity android:name=".filepicker.FilePickerActivity"
+            android:theme="@style/AppTheme"/>
     </application>
 
 </manifest>
